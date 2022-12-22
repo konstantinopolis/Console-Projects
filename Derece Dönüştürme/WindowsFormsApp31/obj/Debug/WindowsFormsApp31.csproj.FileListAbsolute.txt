@@ -1,0 +1,19 @@
+C:\Users\asus\source\repos\WindowsFormsApp31\bin\Debug\WindowsFormsApp31.exe.config
+C:\Users\asus\source\repos\WindowsFormsApp31\bin\Debug\WindowsFormsApp31.exe
+C:\Users\asus\source\repos\WindowsFormsApp31\bin\Debug\WindowsFormsApp31.pdb
+C:\Users\asus\source\repos\WindowsFormsApp31\obj\Debug\WindowsFormsApp31.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\WindowsFormsApp31\obj\Debug\WindowsFormsApp31.Form1.resources
+C:\Users\asus\source\repos\WindowsFormsApp31\obj\Debug\WindowsFormsApp31.Properties.Resources.resources
+C:\Users\asus\source\repos\WindowsFormsApp31\obj\Debug\WindowsFormsApp31.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\WindowsFormsApp31\obj\Debug\WindowsFormsApp31.exe
+C:\Users\asus\source\repos\WindowsFormsApp31\obj\Debug\WindowsFormsApp31.pdb
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Derece Dönüştürme\WindowsFormsApp31\bin\Debug\WindowsFormsApp31.exe.config
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Derece Dönüştürme\WindowsFormsApp31\bin\Debug\WindowsFormsApp31.exe
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Derece Dönüştürme\WindowsFormsApp31\bin\Debug\WindowsFormsApp31.pdb
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Derece Dönüştürme\WindowsFormsApp31\obj\Debug\WindowsFormsApp31.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Derece Dönüştürme\WindowsFormsApp31\obj\Debug\WindowsFormsApp31.Form1.resources
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Derece Dönüştürme\WindowsFormsApp31\obj\Debug\WindowsFormsApp31.Properties.Resources.resources
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Derece Dönüştürme\WindowsFormsApp31\obj\Debug\WindowsFormsApp31.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Derece Dönüştürme\WindowsFormsApp31\obj\Debug\WindowsFormsApp31.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Derece Dönüştürme\WindowsFormsApp31\obj\Debug\WindowsFormsApp31.exe
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Derece Dönüştürme\WindowsFormsApp31\obj\Debug\WindowsFormsApp31.pdb

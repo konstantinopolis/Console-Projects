@@ -1,0 +1,19 @@
+C:\Users\asus\source\repos\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.Form1.resources
+C:\Users\asus\source\repos\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.Properties.Resources.resources
+C:\Users\asus\source\repos\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\WindowsFormsApp40\bin\Debug\WindowsFormsApp40.exe.config
+C:\Users\asus\source\repos\WindowsFormsApp40\bin\Debug\WindowsFormsApp40.exe
+C:\Users\asus\source\repos\WindowsFormsApp40\bin\Debug\WindowsFormsApp40.pdb
+C:\Users\asus\source\repos\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.exe
+C:\Users\asus\source\repos\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.pdb
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Hesap Makinesi\WindowsFormsApp40\bin\Debug\WindowsFormsApp40.exe.config
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Hesap Makinesi\WindowsFormsApp40\bin\Debug\WindowsFormsApp40.exe
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Hesap Makinesi\WindowsFormsApp40\bin\Debug\WindowsFormsApp40.pdb
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Hesap Makinesi\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Hesap Makinesi\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.Form1.resources
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Hesap Makinesi\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.Properties.Resources.resources
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Hesap Makinesi\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Hesap Makinesi\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Hesap Makinesi\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.exe
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Hesap Makinesi\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.pdb

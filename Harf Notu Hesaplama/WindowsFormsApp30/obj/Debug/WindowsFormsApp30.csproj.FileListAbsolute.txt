@@ -1,0 +1,39 @@
+C:\Users\asus\source\repos\WindowsFormsApp30\bin\Debug\WindowsFormsApp30.exe.config
+C:\Users\asus\source\repos\WindowsFormsApp30\bin\Debug\WindowsFormsApp30.exe
+C:\Users\asus\source\repos\WindowsFormsApp30\bin\Debug\WindowsFormsApp30.pdb
+C:\Users\asus\source\repos\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.Form1.resources
+C:\Users\asus\source\repos\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.Properties.Resources.resources
+C:\Users\asus\source\repos\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.exe
+C:\Users\asus\source\repos\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.pdb
+C:\Users\asus\Desktop\c# ödevi\Harf Notu Hesaplama\WindowsFormsApp30\bin\Debug\WindowsFormsApp30.exe.config
+C:\Users\asus\Desktop\c# ödevi\Harf Notu Hesaplama\WindowsFormsApp30\bin\Debug\WindowsFormsApp30.exe
+C:\Users\asus\Desktop\c# ödevi\Harf Notu Hesaplama\WindowsFormsApp30\bin\Debug\WindowsFormsApp30.pdb
+C:\Users\asus\Desktop\c# ödevi\Harf Notu Hesaplama\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\c# ödevi\Harf Notu Hesaplama\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.Form1.resources
+C:\Users\asus\Desktop\c# ödevi\Harf Notu Hesaplama\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.Properties.Resources.resources
+C:\Users\asus\Desktop\c# ödevi\Harf Notu Hesaplama\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\c# ödevi\Harf Notu Hesaplama\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\c# ödevi\Harf Notu Hesaplama\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.exe
+C:\Users\asus\Desktop\c# ödevi\Harf Notu Hesaplama\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.pdb
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Harf Notu Hesaplama\WindowsFormsApp30\bin\Debug\WindowsFormsApp30.exe.config
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Harf Notu Hesaplama\WindowsFormsApp30\bin\Debug\WindowsFormsApp30.exe
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Harf Notu Hesaplama\WindowsFormsApp30\bin\Debug\WindowsFormsApp30.pdb
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Harf Notu Hesaplama\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Harf Notu Hesaplama\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.Form1.resources
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Harf Notu Hesaplama\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.Properties.Resources.resources
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Harf Notu Hesaplama\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Harf Notu Hesaplama\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Harf Notu Hesaplama\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.exe
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Harf Notu Hesaplama\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.pdb
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_1\Zehra_Karakaya_170707063\Harf Notu Hesaplama\WindowsFormsApp30\bin\Debug\WindowsFormsApp30.exe.config
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_1\Zehra_Karakaya_170707063\Harf Notu Hesaplama\WindowsFormsApp30\bin\Debug\WindowsFormsApp30.exe
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_1\Zehra_Karakaya_170707063\Harf Notu Hesaplama\WindowsFormsApp30\bin\Debug\WindowsFormsApp30.pdb
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_1\Zehra_Karakaya_170707063\Harf Notu Hesaplama\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_1\Zehra_Karakaya_170707063\Harf Notu Hesaplama\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.Form1.resources
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_1\Zehra_Karakaya_170707063\Harf Notu Hesaplama\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.Properties.Resources.resources
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_1\Zehra_Karakaya_170707063\Harf Notu Hesaplama\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_1\Zehra_Karakaya_170707063\Harf Notu Hesaplama\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_1\Zehra_Karakaya_170707063\Harf Notu Hesaplama\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.exe
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_1\Zehra_Karakaya_170707063\Harf Notu Hesaplama\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.pdb
