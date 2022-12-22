@@ -1,0 +1,19 @@
+C:\Users\asus\source\repos\WindowsFormsApp33\bin\Debug\WindowsFormsApp33.exe.config
+C:\Users\asus\source\repos\WindowsFormsApp33\bin\Debug\WindowsFormsApp33.exe
+C:\Users\asus\source\repos\WindowsFormsApp33\bin\Debug\WindowsFormsApp33.pdb
+C:\Users\asus\source\repos\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.Form1.resources
+C:\Users\asus\source\repos\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.Properties.Resources.resources
+C:\Users\asus\source\repos\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.exe
+C:\Users\asus\source\repos\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.pdb
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Sayısal Loto\WindowsFormsApp33\bin\Debug\WindowsFormsApp33.exe.config
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Sayısal Loto\WindowsFormsApp33\bin\Debug\WindowsFormsApp33.exe
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Sayısal Loto\WindowsFormsApp33\bin\Debug\WindowsFormsApp33.pdb
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Sayısal Loto\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Sayısal Loto\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.Form1.resources
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Sayısal Loto\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.Properties.Resources.resources
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Sayısal Loto\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Sayısal Loto\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Sayısal Loto\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.exe
+C:\Users\asus\Desktop\Görsel Programlama Ödevi\Sayısal Loto\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.pdb

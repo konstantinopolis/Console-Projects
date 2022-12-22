@@ -1,0 +1,83 @@
+C:\Users\asus\source\repos\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.exe.config
+C:\Users\asus\source\repos\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.exe
+C:\Users\asus\source\repos\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.pdb
+C:\Users\asus\source\repos\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form1.resources
+C:\Users\asus\source\repos\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form2.resources
+C:\Users\asus\source\repos\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Properties.Resources.resources
+C:\Users\asus\source\repos\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.exe
+C:\Users\asus\source\repos\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.pdb
+C:\Users\asus\source\repos\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form3.resources
+C:\Users\NURULLAH\Downloads\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.exe.config
+C:\Users\NURULLAH\Downloads\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.exe
+C:\Users\NURULLAH\Downloads\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.pdb
+C:\Users\NURULLAH\Downloads\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csprojResolveAssemblyReference.cache
+C:\Users\NURULLAH\Downloads\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form1.resources
+C:\Users\NURULLAH\Downloads\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form2.resources
+C:\Users\NURULLAH\Downloads\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form3.resources
+C:\Users\NURULLAH\Downloads\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Properties.Resources.resources
+C:\Users\NURULLAH\Downloads\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.GenerateResource.Cache
+C:\Users\NURULLAH\Downloads\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.CoreCompileInputs.cache
+C:\Users\NURULLAH\Downloads\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.exe
+C:\Users\NURULLAH\Downloads\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.pdb
+F:\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.exe.config
+F:\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.exe
+F:\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.pdb
+F:\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csprojResolveAssemblyReference.cache
+F:\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form1.resources
+F:\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form2.resources
+F:\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form3.resources
+F:\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Properties.Resources.resources
+F:\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.GenerateResource.Cache
+F:\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.CoreCompileInputs.cache
+F:\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.exe
+F:\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.pdb
+C:\Users\asus\Desktop\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.exe.config
+C:\Users\asus\Desktop\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.exe
+C:\Users\asus\Desktop\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.pdb
+C:\Users\asus\Desktop\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form1.resources
+C:\Users\asus\Desktop\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form2.resources
+C:\Users\asus\Desktop\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form3.resources
+C:\Users\asus\Desktop\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Properties.Resources.resources
+C:\Users\asus\Desktop\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.exe
+C:\Users\asus\Desktop\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.pdb
+C:\Users\asus\Desktop\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.exe.config
+C:\Users\asus\Desktop\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.exe
+C:\Users\asus\Desktop\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.pdb
+C:\Users\asus\Desktop\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form1.resources
+C:\Users\asus\Desktop\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form2.resources
+C:\Users\asus\Desktop\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form3.resources
+C:\Users\asus\Desktop\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Properties.Resources.resources
+C:\Users\asus\Desktop\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.exe
+C:\Users\asus\Desktop\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.pdb
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.exe.config
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.exe
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.pdb
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form1.resources
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form2.resources
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form3.resources
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Properties.Resources.resources
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.exe
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.pdb
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_1\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.exe.config
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_1\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.exe
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_1\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.pdb
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_1\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_1\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form1.resources
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_1\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form2.resources
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_1\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Form3.resources
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_1\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Properties.Resources.resources
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_1\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_1\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_1\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.exe
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_1\Zehra_Karakaya_170707063\Otopark Takip Programı\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.pdb
